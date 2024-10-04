@@ -1,2 +1,2 @@
-# Inspektion-KFZ-Sch-den
+# Inspektion-KFZ-Schäden
 KI Lösung für überprüfen von KFZ-Schäden
